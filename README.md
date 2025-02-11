@@ -1,6 +1,8 @@
 # 113-1-Python-pymoney
 > 11310EECS121000 &lt;Introduction to Programming in Python> pymoney project
 
+**🚨 Warning: for students taking EECS121000 from NTHU, do not copy this project without consent**
+
 File can be executed directly.
 
 Once run, records would be saved as "records.txt".
